@@ -1,0 +1,14 @@
+# NOTE: This is a YAML file! We are using `*.txt` so that we can view the content in CERNBox browser.
+
+# Standard model
+sm:
+    # Channels
+        mt:
+            file: /eos/user/s/swunsch/data-sync/CERN/mt_sm_vbf_v2.root
+            tree: tree
+        et:
+            file: /eos/user/s/swunsch/data-sync/CERN/et_sm_vbf_v2.root
+            tree: tree
+        tt:
+            file: /eos/user/s/swunsch/data-sync/CERN/tt_sm_vbf_v1.root
+            tree: tree

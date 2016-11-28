@@ -1,0 +1,20 @@
+# NOTE: This is a YAML file! We are using `*.txt` so that we can view the content in CERNBox browser.
+
+# Standard model
+sm:
+    # Channels
+        mt:
+            file: /eos/user/s/swunsch/data-sync/KIT/Htt_mt_VBFHToTauTauM125_v5.root
+            tree: ntuple
+        et:
+            file: /eos/user/s/swunsch/data-sync/KIT/Htt_et_VBFHToTauTauM125_v5.root
+            tree: ntuple
+        mm:
+            file: /eos/user/s/swunsch/data-sync/KIT/Htt_mm_VBFHToTauTauM125_v5.root
+            tree: ntuple
+        tt:
+            file: /eos/user/s/swunsch/data-sync/KIT/Htt_tt_VBFHToTauTauM125_v5.root
+            tree: ntuple
+        em:
+            file: /eos/user/s/swunsch/data-sync/KIT/Htt_em_VBFHToTauTauM125_v5.root
+            tree: ntuple

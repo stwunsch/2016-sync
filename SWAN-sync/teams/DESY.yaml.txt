@@ -1,0 +1,14 @@
+# NOTE: This is a YAML file! We are using `*.txt` so that we can view the content in CERNBox browser.
+
+# Standard model
+sm:
+    # Channels
+        mt:
+            file: /eos/user/s/swunsch/data-sync/DESY/Htt_mt_VBF_SM_sync_v9.root
+            tree: TauCheck
+        et:
+            file: /eos/user/s/swunsch/data-sync/DESY/Htt_et_VBF_SM_sync_v9.root
+            tree: TauCheck
+        em:
+            file: /eos/user/s/swunsch/data-sync/DESY/VBFHToTauTau_M125_13TeV_powheg_em.root
+            tree: TauCheck
